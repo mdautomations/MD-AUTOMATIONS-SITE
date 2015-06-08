@@ -1,0 +1,9 @@
+User-agent: *
+#Allow: /
+
+Disallow: /portal
+Disallow: /accountsetup
+Disallow: /projectdelivery
+
+
+sitemap: http://www.mdautomations.com/sitemap.xml

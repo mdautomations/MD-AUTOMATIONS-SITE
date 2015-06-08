@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+       
+ <tiles-definitions>
+ 
+       
+       <definition name="homelayout" template="/pages/index.jsp">    </definition>
+       <definition name="servicelayout" template="/pages/services.jsp"> </definition>
+       <definition name="aboutlayout" template="/pages/about.jsp"> </definition>
+       <definition name="courseslayout" template="/pages/courses.jsp"> </definition>
+       <definition name="appenginelayout" template="/pages/appengine.jsp"> </definition>
+       <definition name="javalayout" template="/pages/javatraining.jsp"> </definition>
+       <definition name="ns2layout" template="/pages/ns2training.jsp"> </definition>
+       <definition name="ocplayout" template="/pages/ocp.jsp"> </definition>
+       <definition name="ccnalayout" template="/pages/ccna.jsp"> </definition>
+       <definition name="internshiplayout" template="/pages/internship.jsp"> </definition>
+<!--        <definition name="registrationlayout" template="/pages/registrationhistory.jsp"> </definition> -->
+        <definition name="signinlayout" template="/pages/signin.jsp"> </definition>
+        <definition name="peerslayout" template="/pages/peers.jsp"> </definition>
+        <definition name="profilelayout" template="/pages/profile.jsp"> </definition>
+         <definition name="treelayout" template="/pages/trees.jsp"> </definition>
+         <definition name="certificatelayout" template="/pages/certifications.jsp"> </definition>
+         <definition name="portal" template="/pages/step1.jsp"> </definition>
+         <definition name="accountsetup" template="/pages/step2.jsp"> </definition>
+         <definition name="projectdelivery" template="/pages/step3.jsp"> </definition>
+         <definition name="success" template="/pages/step4.jsp"> </definition>
+         <definition name="failure" template="/pages/failure.jsp"> </definition>
+          <definition name="feedback" template="/pages/feedback.jsp"> </definition>
+             <definition name="sathya" template="/sathya.jsp"> </definition>
+         
+    
+</tiles-definitions>

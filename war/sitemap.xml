@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.mdautomations.com/</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/home</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/services</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/courses</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/about</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/appengine-training</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/trees</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/international-certifications-training</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/java-training</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/ns2-training</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/ccna-training</loc>
+</url>
+<url>
+  <loc>http://www.mdautomations.com/ocp-training</loc>
+</url>
+</urlset>
